@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496570103667",
+    "firebase_url": "https://baby-names-app-db-c7de4.firebaseio.com",
+    "project_id": "baby-names-app-db-c7de4",
+    "storage_bucket": "baby-names-app-db-c7de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496570103667:android:6e9efcbaa102f3c2",
+        "android_client_info": {
+          "package_name": "com.example.fashionation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496570103667-0mbof58ne4nevlvudcgso18aaovaogsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDLNxZGTD9p9kG4ZD7pxcD9pmT-n5AuK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496570103667-0mbof58ne4nevlvudcgso18aaovaogsd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496570103667-dbcm2gprcpcv71rm5hmr9a4jvan32o9l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fashionation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
