@@ -99,6 +99,8 @@ class _DisplayPageState extends State<DisplayPage> {
                                     ).createShader(bounds);
                                   },
                                 ),
+
+                                Text("\nTap to View more info", textAlign: TextAlign.center,)
                               ],
                             ),
                           )
